@@ -1,0 +1,21 @@
+Introduction
+
+Facial emotion reconination FER is project which classifies the images of  various persons based on the expressions
+provided in that images the emotions are catorigsed on the bases of seven universally accepted emotions(happy, sad, fear,
+anger, comntempt, disguised) provided by paul ekman in 1975. In this project the facial emotion recogination is
+implemented through artifical neural network ANN. The data set used in this project is FER 2013  which was the part 
+of kaggel challenge in year 2013
+
+
+To make this project running you need to follow these steps:-
+
+
+1) download the dataset frem the link provided in the dataset file.
+
+2) open the copy_of_fer_ist_model in google colab.
+
+3) in notebook change the path of the dataset and run the indivisual cells
+
+4) run the each indivisual cell in your notebook  sequentally
+
+5)once you run all cells your model will be genrated and trainned and tested on FER2013 dataset

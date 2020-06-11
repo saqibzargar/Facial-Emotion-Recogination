@@ -1,0 +1,9 @@
+FER2013 is dataset available on kaggel which was published in 2013 for Facial emotion recognation in kaggel challenge 
+competation.
+
+
+the dataset contains around 35,000 facial expression image whose  dimensions are  48x48 pixel.
+
+you can download the FER2013 dataset from following link:-
+
+https://www.kaggle.com/deadskull7/fer2013
